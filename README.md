@@ -20,3 +20,6 @@ script.js file
 This file has old javascript code on it and is no longer used in the website but it used to be used for testing some of the features of the website.
 
 Some of the image files are used in the website and the font files are also used as the custom fonts of my website.
+
+Picture of a successful run
+![Screen Shot 2022-05-11 at 11 05 10 PM](https://user-images.githubusercontent.com/58864613/167995903-a208b558-9798-4cd1-bfd9-8798a6addbac.jpg)
